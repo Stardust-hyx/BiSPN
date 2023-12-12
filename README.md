@@ -35,3 +35,15 @@ Run the following command:
 ```shell
 bash {ace2005|biorelex|ade|text2dt}.sh
 ```
+
+## Cite
+If you find our work helpful, please consider citing our paper.
+```
+@inproceedings{he2023bispn,
+  title={BiSPN: Generating Entity Set and Relation Set Coherently in One Pass},
+  author={He, Yuxin and Tang, Buzhou},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={2066--2077},
+  year={2023}
+}
+```
