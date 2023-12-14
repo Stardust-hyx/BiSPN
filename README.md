@@ -7,7 +7,10 @@ Source code for the paper [**BiSPN: Generating Entity Set and Relation Set Coher
 ```
 Python >= 3.8
 ```
-Other required packages are listed in requirements.txt
+Required packages can be installed with:
+```
+pip install -r requirements.txt
+```
 
 ##  Data
 
