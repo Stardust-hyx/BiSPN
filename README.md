@@ -1,6 +1,6 @@
 # BiSPN
 
-Source code for the paper **BiSPN: Generating Entity Set and Relation Set Coherently in One Pass**.
+Source code for the paper [**BiSPN: Generating Entity Set and Relation Set Coherently in One Pass**](https://github.com/Stardust-hyx/BiSPN) (Findings of EMNLP 2023).
 
 ##  Requirements
 
