@@ -5,10 +5,9 @@ Source code for the paper [**BiSPN: Generating Entity Set and Relation Set Coher
 ##  Requirements
 
 ```
-Python >= 3.7   
-PyTorch == 1.6.0 
-Transformers == 3.4.0
+Python >= 3.8
 ```
+Other required packages are listed in requirements.txt
 
 ##  Data
 
